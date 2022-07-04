@@ -1,0 +1,18 @@
+asgiref==3.5.2
+black==22.1.0
+certifi==2021.10.8
+click==8.0.4
+distlib==0.3.4
+Django==4.0.6
+djangorestframework==3.13.1
+filelock @ file:///tmp/pipenv--filelock-20220108-7626-16epixz/filelock-3.4.2
+mypy-extensions==0.4.3
+pathspec==0.9.0
+pipenv @ file:///tmp/pipenv-20220108-7626-1ir1omu/pipenv-2022.1.8
+platformdirs @ file:///tmp/pipenv--platformdirs-20220108-7626-hp2irv/platformdirs-2.4.1
+pytz==2022.1
+six==1.16.0
+sqlparse==0.4.2
+tomli==2.0.1
+virtualenv @ file:///tmp/pipenv--virtualenv-20220108-7626-kf5g66/virtualenv-20.13.0
+virtualenv-clone==0.5.7
