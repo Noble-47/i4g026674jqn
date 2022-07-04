@@ -1,5 +1,5 @@
 """
-ASGI config for _14g026674jqn project.
+ASGI config for i4g026674jqn project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

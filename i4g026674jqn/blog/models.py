@@ -1,6 +1,5 @@
 from django.template.defaultfilters import slugify
 from django.contrib.auth import get_user_model
-from django.contrib.auth import get_user_model
 from django.utils import timezone
 from django.urls import reverse
 from django.db import models
